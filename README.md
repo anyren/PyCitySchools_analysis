@@ -1,7 +1,13 @@
-# pandas-challenge
-Homework 4 for UMN Data Boot Camp
+# PyCity Schools Analysis
+This project was to look at various attributes of fictional "PyCity" schools against their reading and math scores to showcase any trends. The dataset contained 15 schools and 39170 students:
 
-Contains:
-* `Resources` directory - location of source data files
-* `PyCitySchools` directory - contains Jupyter Notebook `PyCitySchools.ipynb` with analysis
-	* NOTE: `PyCitySchools_starter.ipynb` is an example notebook included in the excercise and **does NOT** contain my original work and analysis
+![school summary](schools.png)
+
+I looked at school type, grade, school spending, and school size to determine any trends.
+
+![school type](school_type.png)
+
+All of my analysis can be found in `PyCitySchools/PyCitySchools.ipynb`.
+* NOTE: `PyCitySchools_starter.ipynb` is an example notebook included in the excercise and **does NOT** contain my original work and analysis
+
+The `Resources` directory contains the source data files.
